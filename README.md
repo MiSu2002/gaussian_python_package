@@ -9,3 +9,7 @@ Package has following functions:
 4. Plot histogram
 5. Plot probability density function
 6. Add two Gaussian distributions
+
+Access Gaussian Distributions package from _init_.py file and use in code.
+
+The file _init_.py already has an example for users' convenience of the usage.
