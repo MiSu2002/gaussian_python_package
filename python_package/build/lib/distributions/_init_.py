@@ -5,4 +5,4 @@ from binomial_distribution import Binomial
 gaussian_one = Gaussian(22, 2)
 binomial_one = Binomial(.4, 20)
 print(gaussian_one.mean)
-print(binomial_one)
+print(binomial_one + binomial_one)
