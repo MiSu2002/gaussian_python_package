@@ -13,3 +13,5 @@ Package has following functions:
 Access Gaussian Distributions package from distributions/_init_.py file and use in code.
 
 The file _init_.py already has an example for users' convenience of the usage.
+
+Refer to info.png for understanding Gaussian distribution calculations.
